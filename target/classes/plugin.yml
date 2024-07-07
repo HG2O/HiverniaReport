@@ -1,0 +1,7 @@
+name: HiverniaReport
+main: cfr.h2o.dev.hiverniareport
+version: 1.0
+commands:
+  report:
+    description: Ouvrir le menu de report
+    usage: /report
